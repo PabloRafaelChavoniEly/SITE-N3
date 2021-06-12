@@ -54,7 +54,7 @@
                         <p class="text-white-50">
                             É um campeonato criado pelo Streamer <a href="https://www.twitch.tv/paulodionizio">Paulo Dionizio</a>, onde partidas são disputadas no Fps
                             <a href="https://playvalorant.com/pt-br">Valorant</a>,
-                            game criado pela <a href="https://www.riotgames.com/pt-br">Riot Games</a>.
+                            game criado pela <a href="https://www.riotgames.com/pt-br">Riot Games</a>. 
                         </p>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                         <div class="featured-text text-center text-lg-left">
                             <h4>Por que a criação deste campeonato?</h4>
                             <p class="text-white-50 mb-0">A inscrição é no valor de R$ 5,00, por integrante. Quando finalizada as inscrições, o sorteio dos times é feito ao vivo, a separação é feita por ranques, sendo eles: Bronze, Prata ou Ouro. Cada time deve conter 1 ouro, 3 pratas e 1 bronze. O intuíto é fazer com que você jogue com players desconhecidos e faça amizades além de competir e formar estratégias essenciais para buscar a vitória
-                                                          O time vencedor leva a bolada e mais uma chave de game aleatória, mas com finalidade de familiarizar todos os players, e evitar uma comunidade tóxica.
+                                                          O time vencedor leva a bolada e mais uma chave de game aleatória, mas com finalidade de familiarizar todos os players, e evitar uma comunidade tóxica.<br> <a href="http://encurtador.com.br/HN018">REGRAS DO TORNEIO</a>
                             </p>
                         </div>
                     </div>
@@ -84,7 +84,7 @@
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
                                     <h4 class="text-white">1ª Edição</h4>
-                                    <p class="mb-0 text-white-50">A primeira edição do Valorant Trash Noob Challenger ocorreu nos dias 05 e 06 de junho de 2021, as finais foram disputadas pelas equipes: teamjett e teamphoenix. Os embates foram executados nos mapas: Ascent e Bind, onde a teamjett venceu o primeiro mapa (ASCENT) por 13 x 3 e o venceu o segundo (BIND) no Overtime por 15 x 13 se consagrando campeã da 1ª edição do VTNC.</p>
+                                    <p class="mb-0 text-white-50">A primeira edição do Valorant Trash Noob Challenger ocorreu nos dias 05 e 06 de junho de 2021, as finais foram disputadas pelas equipes: teamjett e teamphoenix. Os embates foram executados nos mapas: Ascent e Bind, onde a teamjett venceu o primeiro mapa (ASCENT) por 13 x 3 e vencendo o segundo mapa (BIND) no Overtime por 15 x 13 se consagrando campeã da 1ª edição do VTNC.</p>
                                     <hr class="d-none d-lg-block mb-0 ms-0" />
                                 </div>
                             </div>
@@ -116,8 +116,9 @@
                         <i class="far fa-valorant fa-2x mb-2 text-white"></i>
                         <h2 class="text-white mb-5">INSCREVA-SE NO CAMPEONATO</h2>
                         <form class="form-signup d-flex flex-column flex-sm-row">
-                            <input class="form-control flex-fill me-0 me-sm-2 mb-3 mb-sm-0" id="inputEmail" type="email" placeholder="DIGITE SEU EMAIL..." />
-                            <button class="btn btn-primary" type="submit">ENVIAR</button>
+                              <div class="d-grid gap-2 col-6 mx-auto">
+                                <button class="btn btn-link" type="submit"><a href="https://forms.gle/3A5jou3FypPYRiQGA">INSCREVA-SE</a></button>
+                              </div>
                         </form>
                     </div>
                 </div>
