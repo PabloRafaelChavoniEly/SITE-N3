@@ -209,11 +209,11 @@ sup {
 }
 
 a {
-  color: #fd7e14;
+  color: #0011ff;
   text-decoration: underline;
 }
 a:hover {
-  color: #50817e;
+  color: #a123fb;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -2979,14 +2979,14 @@ textarea.form-control-lg {
 }
 
 .btn-secondary {
-  color: #fff;
-  background-color: #7464a1;
-  border-color: #7464a1;
+  color: rgb(0, 0, 0);
+  background-color: #ff0000;
+  border-color: #990202;
 }
 .btn-secondary:hover {
-  color: #fff;
-  background-color: #635589;
-  border-color: #5d5081;
+  color: rgb(0, 0, 0);
+  background-color: #fff;
+  border-color: #fff;
 }
 .btn-check:focus + .btn-secondary, .btn-secondary:focus {
   color: #fff;
@@ -7509,7 +7509,7 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #64a19d !important;
+  color: #e06d0e !important;
 }
 
 .text-secondary {
@@ -7561,7 +7561,7 @@ textarea.form-control-lg {
 }
 
 .text-white-50 {
-  color: rgba(1, 255, 22, 0.842) !important;
+  color: rgb(207, 95, 3) !important;
 }
 
 .text-reset {
@@ -7593,7 +7593,7 @@ textarea.form-control-lg {
 }
 
 .bg-light {
-  background-color: #a80909 !important;
+  background-color: #34495E !important;
 }
 
 .bg-dark {
@@ -11062,40 +11062,40 @@ body {
   }
   #mainNav .navbar-brand {
     padding: 0.5rem 0;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(250, 246, 1, 0.801);
   }
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(250, 246, 1, 0.801);
   }
   #mainNav .nav-link:hover {
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(4, 255, 255, 0.75);
   }
   #mainNav .nav-link:active {
     color: #fff;
   }
   #mainNav.navbar-shrink {
-    background-color: #fff;
+    background-color: rgb(0, 0, 0);
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #000;
+    color: #a200ff;
   }
   #mainNav.navbar-shrink .nav-link {
-    color: #000;
+    color: #a200ff;
     padding: 1.5rem 1.5rem 1.25rem;
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #a200ff;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #467370;
+    color: #a200ff;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #a200ff;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid #a200ff;
   }
 }
 
@@ -11126,7 +11126,7 @@ body {
   font-size: 2.5rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
-  background: linear-gradient(rgba(34, 196, 2, 0.89), rgba(1, 255, 22, 0.842));
+  background: linear-gradient(rgba(1, 217, 255, 0.89), rgba(166, 69, 245, 0.842));
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
           background-clip: text;
@@ -11217,7 +11217,7 @@ body {
 }
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #e77810;
 }
 .contact-section .card h4, .contact-section .card .h4 {
   font-size: 0.8rem;
@@ -11226,7 +11226,7 @@ body {
   letter-spacing: 0.15rem;
 }
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: #f36609;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -11237,13 +11237,13 @@ body {
   text-align: center;
   height: 3rem;
   width: 3rem;
-  background: rgba(255, 255, 255, 0.1);
+  background: #01c4ff;
   border-radius: 100%;
   line-height: 3rem;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgb(255, 255, 255);
 }
 .contact-section .social a:hover {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgb(158, 121, 245);
 }
 .contact-section .social a:active {
   color: #fff;
